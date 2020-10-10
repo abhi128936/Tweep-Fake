@@ -53,6 +53,7 @@ Step 8:Type ```http://127.0.0.1:5000/predict/binary``` and in the Body head pass
 And there it is the Response of the predicted model.
 
 Step 9:Similarly to use the Multiclass Model type ```http://127.0.0.1:5000/predict/multiclass``` and in the Body head pass the Test Image as per the following picture and Hit Send
-
+![Capture](https://user-images.githubusercontent.com/37527532/95649599-cb5ef880-0afb-11eb-8bb6-c0c568cbd451.JPG)
+And there it is the Response of the predicted model.
 
 
