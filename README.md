@@ -48,7 +48,7 @@ Step 7:Type  ```http://127.0.0.1:5000/welcome``` to the Post Request and Hit Sen
 
 If you see this welcome message then you are good to go
 
-Step 8:Type ```http://127.0.0.1:5000/predict``` and in the Body head pass the Test Image as per the following picture and Hit Send
-![Capture2](https://user-images.githubusercontent.com/37527532/91639686-f141a980-ea35-11ea-9f5f-73003c346bf3.JPG)
+Step 8:Type ```http://127.0.0.1:5000/predict/binary``` and in the Body head pass the Test Image as per the following picture and Hit Send
+![Capture](https://user-images.githubusercontent.com/37527532/95649120-8fc32f00-0af9-11eb-9467-95d5be890848.JPG)
 And there it is the Response of the predicted model.
 
