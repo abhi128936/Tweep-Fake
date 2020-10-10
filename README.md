@@ -27,7 +27,9 @@ Multiclass Model:-Achieved an overall accuracy of 83.09% on the Training Set, 81
 ![flask](https://user-images.githubusercontent.com/37527532/91639099-c2293900-ea31-11ea-9b8e-6a4309abc1df.png)
 
 # How to Use this API
-Step 1:Clone this Repository By typing ```git clone https://github.com/rishabh706/Bird-Species-Image-Classification-Flask-API.git```.
+Step 1:Clone this Repository By typing ``` git clone https://github.com/rishabh706/Tweep-Fake.git```.
+
+Step 2:Download the model weights from ```https://drive.google.com/drive/folders/106jCWwF3uVZEDeT4exR-e7M_-fzgaRX8?usp=sharing``` and put it inside the model weights folder.
 
 Step 2:Open your Terminal or Bash shell and get into the project directory by typing command ```cd```.
 
