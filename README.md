@@ -43,8 +43,9 @@ Step 5:Type the following command to run the server ```python app.py```.
 
 Step 6:Open Postman If you don't have you can download from ```https://www.postman.com/downloads/```.
 
-Step 7:Type  ```http://127.0.0.1:5000/``` to the Post Request and Hit Send you will see a response like this
-![Capture](https://user-images.githubusercontent.com/37527532/91639684-f0107c80-ea35-11ea-97e1-a37798ab62e3.JPG)
+Step 7:Type  ```http://127.0.0.1:5000/welcome``` to the Post Request and Hit Send you will see a response like this
+![Capture](https://user-images.githubusercontent.com/37527532/95648877-2989dc80-0af8-11eb-82f9-d32a91d0800a.JPG)
+
 If you see this welcome message then you are good to go
 
 Step 8:Type ```http://127.0.0.1:5000/predict``` and in the Body head pass the Test Image as per the following picture and Hit Send
