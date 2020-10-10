@@ -15,7 +15,7 @@ The problem statement is to classify whether the Tweet is written by a Human or 
 Used Bidirectional Encoder Representations from Transformers(BERT) to train the model.
 
 # Architecture Used
-
+![fig2-1](https://user-images.githubusercontent.com/37527532/95648499-525ca280-0af5-11eb-9178-74c37bad07d9.png)
 
 # Results Achieved
 Binary Model:-Achieved an overall accuracy of 82.46% on the Training Set, 82.06% on the validation set and 80.96 percent on the Testing Set.Also Achieved Macro F1 Score,precision and recall of 0.83, 0.82 and 0.82.
